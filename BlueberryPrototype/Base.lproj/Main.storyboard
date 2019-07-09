@@ -48,7 +48,7 @@
                     <view key="view" contentMode="scaleToFill" id="aRc-IX-2QX">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.92156862750000001" green="0.37254901959999998" blue="0.36470588240000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="RMl-vR-WoG"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Stats" id="GYu-Le-Qia"/>
@@ -64,7 +64,7 @@
                     <view key="view" contentMode="scaleToFill" id="0i1-yR-29G">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.98039215690000003" green="0.73725490199999999" blue="0.4549019608" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="ViC-IN-2L5"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="List" id="sb0-Om-oyn"/>
@@ -87,14 +87,14 @@
                                 <state key="normal" title="Go!"/>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="1" green="0.66224965059999996" blue="0.61832542889999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="6hh-Ks-mhB"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Time" id="WCb-pM-Olw"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="keV-g1-Xw4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="258" y="-887"/>
+            <point key="canvasLocation" x="174" y="-820"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="aAb-3b-hle">
@@ -114,7 +114,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Cb4-Ge-4bY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-965" y="-75"/>
+            <point key="canvasLocation" x="-883" y="-121"/>
         </scene>
         <!--JournalViewController-->
         <scene sceneID="x6f-CJ-Jtg">
@@ -123,7 +123,7 @@
                     <view key="view" contentMode="scaleToFill" id="ng0-om-RRt">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.13725490200000001" green="0.62352941179999999" blue="0.58431372550000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="oBM-IY-zbd"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Journal" id="uaj-3v-E9U"/>
