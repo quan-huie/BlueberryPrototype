@@ -123,6 +123,22 @@
                     <view key="view" contentMode="scaleToFill" id="ng0-om-RRt">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="How Much Idle Time?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B7G-bk-mkT">
+                                <rect key="frame" x="125" y="96" width="164" height="48"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="zM0-9N-nqt">
+                                <rect key="frame" x="45" y="182" width="322" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
                         <color key="backgroundColor" red="0.13725490200000001" green="0.62352941179999999" blue="0.58431372550000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="oBM-IY-zbd"/>
                     </view>
@@ -130,7 +146,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6Bu-6u-J11" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1336" y="-581"/>
+            <point key="canvasLocation" x="1334.7826086956522" y="-581.25"/>
         </scene>
     </scenes>
     <resources>
